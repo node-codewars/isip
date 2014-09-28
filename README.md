@@ -1,5 +1,4 @@
-isip
-====
+# isip [![Build Status](https://travis-ci.org/node-codewars/isip.svg?branch=master)](https://travis-ci.org/node-codewars/isip)
 
 check if a string is an ip address
 
