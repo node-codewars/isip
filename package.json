@@ -1,0 +1,25 @@
+{
+  "name": "isip",
+  "version": "0.0.1",
+  "description": "check if a string is an ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-codewars/isip.git"
+  },
+  "keywords": [
+    "ip"
+  ],
+  "author": "Ruan Yulong <ruanyu1@gmail.com> (http://github.com/ruanyl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-codewars/isip/issues"
+  },
+  "homepage": "https://github.com/node-codewars/isip",
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
